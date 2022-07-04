@@ -1,0 +1,7 @@
+D:\david\Solution1\Поздрав\bin\Debug\Поздрав.exe.config
+D:\david\Solution1\Поздрав\bin\Debug\Поздрав.exe
+D:\david\Solution1\Поздрав\bin\Debug\Поздрав.pdb
+D:\david\Solution1\Поздрав\obj\Debug\Поздрав.csprojAssemblyReference.cache
+D:\david\Solution1\Поздрав\obj\Debug\Поздрав.csproj.CoreCompileInputs.cache
+D:\david\Solution1\Поздрав\obj\Debug\Поздрав.exe
+D:\david\Solution1\Поздрав\obj\Debug\Поздрав.pdb
